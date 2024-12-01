@@ -1,0 +1,18 @@
+Results for Euclidean Distance:
+  Stopping Criterion: max_iter
+  SSE: 4297.5440
+  Iterations: 100
+  Time Taken: 53.50 seconds
+
+Results for Cosine Distance:
+  Stopping Criterion: max_iter
+  SSE: 685.0714
+  Iterations: 100
+  Time Taken: 85.43 seconds
+
+Results for Jaccard Distance:
+  Stopping Criterion: max_iter
+  SSE: 3677.9419
+  Iterations: 100
+  Time Taken: 74.11 seconds
+

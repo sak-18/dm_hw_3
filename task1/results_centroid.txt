@@ -1,0 +1,18 @@
+Results for Euclidean Distance:
+  Stopping Criterion: centroid
+  SSE: 4303.8697
+  Iterations: 37
+  Time Taken: 19.64 seconds
+
+Results for Cosine Distance:
+  Stopping Criterion: centroid
+  SSE: 685.1690
+  Iterations: 68
+  Time Taken: 57.06 seconds
+
+Results for Jaccard Distance:
+  Stopping Criterion: centroid
+  SSE: 3638.0874
+  Iterations: 47
+  Time Taken: 34.13 seconds
+

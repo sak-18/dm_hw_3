@@ -1,0 +1,17 @@
+Summary for Euclidean Distance:
+  SSE: 4323.0626
+  Accuracy: 0.6057
+  Iterations: 54
+  Time Taken: 29.12 seconds
+
+Summary for Cosine Distance:
+  SSE: 682.3666
+  Accuracy: 0.6100
+  Iterations: 60
+  Time Taken: 50.42 seconds
+
+Summary for Jaccard Distance:
+  SSE: 3648.1653
+  Accuracy: 0.5309
+  Iterations: 12
+  Time Taken: 8.84 seconds
